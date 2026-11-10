@@ -35,4 +35,9 @@ return [
         ],
     ],
 
+    // First-party cross-site tracker (collector lives on sharet.africa).
+    'sharet_analytics' => [
+        'url' => env('SHARET_ANALYTICS_URL', 'https://sharet.africa'),
+    ],
+
 ];
