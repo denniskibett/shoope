@@ -14,7 +14,7 @@ return [
         ['name' => 'Sharet', 'label' => 'Payments API for Kenya', 'url' => 'https://sharet.africa'],
         ['name' => 'Breve', 'label' => 'Invoicing & M-Pesa payments for SMEs', 'url' => 'https://breve.sharet.africa'],
         ['name' => 'Aiyotickets', 'label' => 'Events & tickets in Nairobi', 'url' => 'https://aiyotickets.com'],
-        ['name' => 'eServiz', 'label' => 'Home services in Nairobi', 'url' => 'https://eserviz.aiyotickets.com'],
+        ['name' => 'eServiz', 'label' => 'Government errands done for you (NTSA, Lands, KRA)', 'url' => 'https://eserviz.aiyotickets.com'],
         ['name' => 'Scharge', 'label' => 'Property & rent management', 'url' => 'https://scharge.sharet.africa'],
         ['name' => 'Sharet Loans', 'label' => 'Boda boda & e-bike loans', 'url' => 'https://loans.sharet.africa'],
     ],
